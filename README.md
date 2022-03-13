@@ -1,4 +1,5 @@
 Galaxy A8용 Team Crab V2.0
+
 TeamCrab 제작(Github @TeamCrab)
 
 완전히 새로운 세계를 경험하세요
